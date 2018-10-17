@@ -1,0 +1,11 @@
+@font-face {
+    font-family: digital;
+    src: url(digital-7.ttf);
+}
+
+.clock {
+    font-family: digital;
+    color: yellow;
+    font-size: 60px;
+}
+
